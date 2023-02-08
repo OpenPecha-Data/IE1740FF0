@@ -1,0 +1,16 @@
+id: IE1740FF0
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:03:21.548091
+last_modified: 2023-02-08 16:03:21.548211
+source_metadata:
+  title: 'Vasubandhu: Triṃśikāvijñapti'
+  language: sa
+bases:
+  '3878':
+    base_file: 3878.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
